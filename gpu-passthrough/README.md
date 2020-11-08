@@ -81,4 +81,16 @@ blacklist nouveau
 
 If your Windows machine fails to boot, you may want to create a new Windows VM using UEFI rather than BIOS.
 
+https://www.reddit.com/r/homelab/comments/b5xpua/the_ultimate_beginners_guide_to_gpu_passthrough/
+
+https://www.nvidia.com/en-us/geforce/forums/discover/207647/nvidia-amp-windows-10-how-i-solved-the-code-43-error-/
+
+https://pve.proxmox.com/pve-docs/pve-admin-guide.html#qm_pci_passthrough
+
+https://pve.proxmox.com/wiki/PCI(e)_Passthrough
+
+https://forum.proxmox.com/threads/fix-for-pci-passthrough-and-issues-with-proxmox-6-gui-regex-that-needs-resolving-after-upgrade.56507/
+
+https://wiki.archlinux.org/index.php/PCI_passthrough_via_OVMF#Passing_through_a_device_that_does_not_support_resetting
+
 
